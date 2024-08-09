@@ -10,8 +10,8 @@ global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
 global.ownernumber = '923314770605'  //creator number
-global.ownername = ' Hi-Tech ' //owner name
-global.botname = 'Hi-Tech ' //name of the bot
+global.ownername = 'Hi-Tech' //owner name
+global.botname = 'Hi-Tech' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
