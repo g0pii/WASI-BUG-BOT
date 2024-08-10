@@ -174,8 +174,8 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 	        console.log(chalk.magenta(`\n${themeemoji} Telegram CHANNEL:@wasitechx`))
             console.log(chalk.magenta(`${themeemoji} GITHUB: Private `))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: private `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 923192173398`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: @wasitechx\n`))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: private `))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: @Hi-Tech\n`))
         }
         if (
             connection === "close" &&
